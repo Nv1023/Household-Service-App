@@ -115,15 +115,6 @@ The platform features distinct dashboards for each user role, an admin-controlle
 4.  **Access the application:**
     Open your browser and navigate to the URL provided by Vite (usually `http://localhost:5173`). The frontend is configured to proxy API requests to the Flask backend running on `http://127.0.0.1:5000`.
 
-    HouseholdServices_2/
-├── backend/
-│   ├── apps/
-│   ├── main.py
-│   ├── requirements.txt
-├── frontend/
-│   ├── src/
-│   ├── package.json
-├── README.md
 
 
 ## Author
