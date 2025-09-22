@@ -1,6 +1,6 @@
-# NestCare - Household Services Marketplace
+# Household Services Marketplace
 
-NestCare is a full-stack web application designed to connect customers with skilled professionals for a variety of household services. It provides a seamless, role-based experience for customers, professionals, and administrators, ensuring efficient service management and communication.
+This is a full-stack web application designed to connect customers with skilled professionals for a variety of household services. It provides a seamless, role-based experience for customers, professionals, and administrators, ensuring efficient service management and communication.
 
 The platform features distinct dashboards for each user role, an admin-controlled approval process for professionals, and an integrated system for managing service requests from creation to completion.
 
